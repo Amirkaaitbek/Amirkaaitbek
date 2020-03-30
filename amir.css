@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    }
+    .fig {text-align: center;} 
+    ul{
+        display: inline;}   
+    .ul{margin-left: 600px;
+    }
+    li{
+        list-style-type: none;
+        display: inline;
+        margin-right: 30px;
+        font-size: 20px;
+    
+    }
+    li:hover{
+        color: black;
+        border-bottom: 2px solid rgb(118, 64, 204);
+    }
+    
+    body{
+        background-color: white(61, 113, 255);
+    }
+    li{
+        color: rgb(109, 109, 109);
+    }
+    ul{float: right;
+    padding: 30px 70px 0px 30px;}
+    .ax1{
+        font-size: 50px;
+        color: black;
+        font-family: monospace;
+        padding: 300px 0px 0px 0px;
+        width: 750px;
+    }
+    .amir{
+        background-color: rgb(255, 102, 0);
+        border-radius: 5px;
+        width: 100px;
+        padding: 5px 50px;
+        margin-left: 300px;
+    
+    }
+    .amir1{
+        border: 1px rgb(236, 12, 12) solid;
+        font-size: 25px;
+        padding: 250px 20px;
+        text-align: center;
+        width: 300px;
+        margin: 20px;
+    }
+    
+
+    
